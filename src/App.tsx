@@ -152,7 +152,7 @@ export default function App() {
           {/* Core Hero CTA Button */}
           <motion.a
             id="hero-cta"
-            href="https://calendly.com/veomaz2/30min"
+            href="https://calendly.com/sociazy/30min"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => (window as any).fbq('track', 'Lead')}
@@ -239,7 +239,7 @@ export default function App() {
 
           {/* CTA under the Social grid */}
           <motion.a
-            href="https://calendly.com/veomaz2/30min"
+            href="https://calendly.com/sociazy/30min"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => (window as any).fbq('track', 'Lead')}
@@ -297,7 +297,7 @@ export default function App() {
 
           {/* CTA at end of problems */}
           <motion.a
-            href="https://calendly.com/veomaz2/30min"
+            href="https://calendly.com/sociazy/30min"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => (window as any).fbq('track', 'Lead')}
@@ -370,7 +370,7 @@ export default function App() {
 
           {/* CTA at end of features */}
           <motion.a
-            href="https://calendly.com/veomaz2/30min"
+            href="https://calendly.com/sociazy/30min"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => (window as any).fbq('track', 'Lead')}
@@ -471,7 +471,7 @@ export default function App() {
 
           {/* Book Demo Button */}
           <motion.a
-            href="https://calendly.com/veomaz2/30min"
+            href="https://calendly.com/sociazy/30min"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => (window as any).fbq('track', 'Lead')}
@@ -515,7 +515,7 @@ export default function App() {
         {/* Right CTA Button Section */}
         <div className="w-full md:w-auto">
           <motion.a
-            href="https://calendly.com/veomaz2/30min"
+            href="https://calendly.com/sociazy/30min"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => (window as any).fbq('track', 'Lead')}

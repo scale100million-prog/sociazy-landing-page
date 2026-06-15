@@ -61,7 +61,7 @@ export const RESULT_CARDS: ResultCard[] = [
   },
   {
     id: 4,
-    name: "Rahul",
+    name: "Priya",
     badge: "PROPERTY OWNER",
     before: "40+ broker messages a day asking about flat availability. The manager replied to all of them by hand.",
     after: "Every broker now gets an instant reply. The manager spends his day on site visits, not typing.",

@@ -1,0 +1,6 @@
+{
+  "name": "Estate Desk",
+  "description": "Premium VSL landing page for Estate Desk - WhatsApp Automation for Indian property owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

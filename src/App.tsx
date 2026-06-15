@@ -176,8 +176,8 @@ export default function App() {
             Real Results From Real Owners
           </h2>
 
-          {/* Result cards Vertical Stack */}
-          <div className="flex flex-col gap-[36px] w-full max-w-[500px] mx-auto mb-[44px]">
+          {/* Result cards — 2 column grid on desktop, single column on mobile */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-[36px] w-full max-w-[1000px] mx-auto mb-[44px]">
             {RESULT_CARDS.map((card) => {
               return (
                 <div 

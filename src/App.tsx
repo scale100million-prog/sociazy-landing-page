@@ -102,12 +102,12 @@ export default function App() {
             id="hero-headline" 
             className="text-[24px] md:text-[44px] lg:text-[48px] font-[850] tracking-[-0.02em] leading-[1.12] text-[#1A1A2E] text-center max-w-[1000px] mb-2 md:mb-3"
           >
-            Stop Spending your day replying to Whatsapp messages
+            How Property Owners Are Putting Their Entire Business on Autopilot Using an AI Automation.
           </h1>
 
           {/* Hero Headline Second Part (Continuation in green accent color) */}
           <h2 className="text-[19px] md:text-[28px] lg:text-[32px] font-[800] text-[#16A34A] text-center max-w-[900px] mb-3 md:mb-4 leading-tight tracking-[-0.01em]">
-            and focus on Scaling your business.
+            And Scaling to More Units Without Hiring More Staff or Losing Money.
           </h2>
 
           {/* Hero Supporting Description Paragraph */}
@@ -115,7 +115,7 @@ export default function App() {
             id="hero-subheadline" 
             className="text-[13px] md:text-[17px] text-[#4A4B65] leading-[1.6] text-center max-w-[760px] mb-4 md:mb-6"
           >
-            Estate Desk automates broker replies, rent collection, and vendor follow-ups — on the same WhatsApp your tenants and brokers already use. <span className="text-[#16A34A] font-bold">400+ properties already automated across India</span>.
+            <span className="text-[#16A34A] font-bold">400+ properties already automated across India</span>. <span className="text-[#16A34A] font-bold">10cr+ Generated</span>.
           </p>
           
           {/* Video Section (max-width 800px) */}

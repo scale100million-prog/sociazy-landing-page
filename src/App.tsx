@@ -100,23 +100,30 @@ export default function App() {
           {/* Hero Headline First Part (Main statement in dark heading color) */}
           <h1 
             id="hero-headline" 
-            className="text-[24px] md:text-[44px] lg:text-[48px] font-[850] tracking-[-0.02em] leading-[1.12] text-[#1A1A2E] text-center max-w-[1000px] mb-2 md:mb-3"
+            className="text-[21px] md:text-[44px] lg:text-[48px] font-[850] tracking-[-0.025em] leading-[1.1] text-[#1A1A2E] text-center max-w-[1000px] mb-2.5 md:mb-3"
           >
             How Property Owners Are Putting Their Entire Business on Autopilot Using an AI Automation.
           </h1>
 
           {/* Hero Headline Second Part (Continuation in green accent color) */}
-          <h2 className="text-[19px] md:text-[28px] lg:text-[32px] font-[800] text-[#16A34A] text-center max-w-[900px] mb-3 md:mb-4 leading-tight tracking-[-0.01em]">
+          <h2 className="text-[16px] md:text-[28px] lg:text-[32px] font-[800] text-[#16A34A] text-center max-w-[900px] mb-4 md:mb-5 leading-[1.25] tracking-[-0.01em]">
             And Scaling to More Units Without Hiring More Staff or Losing Money.
           </h2>
 
-          {/* Hero Supporting Description Paragraph */}
-          <p 
+          {/* Hero Supporting Social Proof Stat Pills */}
+          <div 
             id="hero-subheadline" 
-            className="text-[13px] md:text-[17px] text-[#4A4B65] leading-[1.6] text-center max-w-[760px] mb-4 md:mb-6"
+            className="flex flex-wrap items-center justify-center gap-2 md:gap-3 mb-5 md:mb-7"
           >
-            <span className="text-[#16A34A] font-bold">400+ properties already automated across India</span>. <span className="text-[#16A34A] font-bold">10cr+ Generated</span>.
-          </p>
+            <div className="inline-flex items-center gap-2 bg-[#16A34A]/10 rounded-full py-1.5 px-3.5 md:py-2 md:px-4">
+              <span className="w-1.5 h-1.5 rounded-full bg-[#16A34A] flex-shrink-0"></span>
+              <span className="text-[12px] md:text-[15px] font-bold text-[#1A1A2E] whitespace-nowrap">400+ Properties Across India</span>
+            </div>
+            <div className="inline-flex items-center gap-2 bg-[#16A34A]/10 rounded-full py-1.5 px-3.5 md:py-2 md:px-4">
+              <span className="w-1.5 h-1.5 rounded-full bg-[#16A34A] flex-shrink-0"></span>
+              <span className="text-[12px] md:text-[15px] font-bold text-[#1A1A2E] whitespace-nowrap">10Cr+ Generated</span>
+            </div>
+          </div>
           
           {/* Video Section (max-width 800px) */}
           <div className="w-full max-w-[800px] flex flex-col items-center mb-5 md:mb-8">
